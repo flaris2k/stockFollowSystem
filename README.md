@@ -6,6 +6,7 @@ a few attributes;
  - Add Item
  - Del Item
  - Search Item
- Just Turkish Language-
+ 
+ Just Turkish Language Support
  
 ![scshot](https://user-images.githubusercontent.com/111177595/229662240-a8af982c-a7ce-4d98-8769-fc7a12e50287.png)
